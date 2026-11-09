@@ -20,16 +20,16 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
-| 1 | Lặp lại | Khi chuẩn bị nộp bài tập lớn/lab sát deadline, tôi muốn đối chiếu danh sách file yêu cầu và quy cách đặt tên theo rubric, để không bị trừ điểm vì thiếu file hoặc sai cấu trúc thư mục. | Bản thân, bạn cùng nhóm | `[Điền số thật: mất 45p/lần, 2-3 lần/tuần;` |
-| 2 | Lặp lại | Khi bắt đầu buổi họp nhóm hằng tuần, tôi muốn nắm nhanh việc từng thành viên đã làm trong tuần, để phân công việc tuần mới mà không phải hỏi lần lượt từng người. | Nhóm trưởng, các thành viên trong nhóm | `Ước tính của bản thân, chưa tự bấm giờ: mỗi buổi họp mất khoảng 45 phút, riêng phần cập nhật tiến độ khoảng 15 phút/lần và thấy rất mất công. [Điền thêm: số buổi họp mỗi tuần, hoặc bằng chứng như tin nhắn nhắc việc]` |
-| 3 | Tốn thời gian | Khi ôn thi cuối kỳ với giáo trình và slide dài, tôi muốn gom được các khái niệm và công thức trọng tâm theo từng chủ đề của đề cương, để ôn đúng trọng tâm trước ngày thi. | Sinh viên ôn thi (bản thân) | `[Điền số thật: mất mấy giờ cho 1 môn (tự bấm giờ hoặc ước tính, ghi rõ); kỳ gần nhất mất mấy ngày]` |
-| 4 | Pain từ người khác | Khi tôi để quên đồ trên xe Xanh SM sau chuyến đi, tôi muốn nhanh chóng biết tài xế có giữ đồ không và cách nhận lại, để không mất tài sản. | Hành khách, tổng đài viên CSKH, tài xế Xanh SM | `[Điền kết quả phỏng vấn 3–5 người thật (hành khách hoặc tài xế): từng gặp chưa, lần gần nhất mất bao lâu, có nhận lại được không. Ghi vai trò, thời điểm, cách hỏi]` |
-| 5 | Cần đọc, tổng hợp nhiều thông tin | Khi nhận một đề tài nghiên cứu hoặc tiểu luận mới, tôi muốn so sánh nhanh các phương pháp trong những bài báo gần nhất về cùng một bài toán, để chọn hướng tiếp cận cho đề cương. | Sinh viên làm đề tài / đồ án | `[Điền số thật: đã đọc mấy bài, lần gần nhất mất mấy giờ]` |
-| 6 | Cần đọc, tổng hợp nhiều thông tin | Khi cần làm thủ tục hành chính của trường (đăng ký môn, xin bảng điểm, bảo lưu), tôi muốn tra đúng quy trình, biểu mẫu và hạn chót hiện hành, để làm kịp mà không phải đi lại nhiều lần. | Sinh viên, cán bộ phòng đào tạo | `[Điền số thật: lần gần nhất tìm thông tin mất bao lâu; có bị làm sai hoặc phải làm lại không]` |
-| 7 | Pain từ người khác | Khi thành viên mới cần thiết lập môi trường lập trình cho dự án chung, họ muốn biết chính xác các bước cài đặt và phiên bản chuẩn, để chạy được code ngay mà không phải nhắn hỏi liên tục. | Thành viên mới, người hướng dẫn trong nhóm | `[Điền số thật: số tin nhắn hỏi lặp lại trong group chat, thời gian người hướng dẫn phải hỗ trợ]` |
-| 8 | Pain từ người khác | Khi ban cán sự lớp cần chốt danh sách đăng ký hoạt động, họ muốn gộp và chuẩn hóa danh sách từ nhiều nguồn (form, tin nhắn, danh sách giấy), để gửi báo cáo đúng hạn. | Ban cán sự lớp, sinh viên đăng ký | `[Điền số thật: số dòng dữ liệu, thời gian lọc trùng, số lỗi lần gần nhất]` |
-| 9 | Tốn thời gian | Khi kết thúc tuần làm việc hoặc sprint học tập, tôi muốn tổng hợp các việc đã xong và vướng mắc còn tồn từ Trello/Notion thành một báo cáo ngắn, để cập nhật cho mentor mà không phải lục lại từng thẻ. | Thực tập sinh / sinh viên làm đồ án, mentor | `[Điền số thật: mất mấy phút mỗi tuần; mấy tuần gần nhất gửi trễ]` |
-| 10 | Lặp lại | Khi nhận feedback của giảng viên dưới dạng file Word/PDF có nhiều comment rải rác, tôi muốn phân loại comment theo mức ưu tiên và người phụ trách, để cả nhóm sửa bài đúng hạn mà không bỏ sót ý nào. | Cả nhóm làm bài tập lớn | `[Điền số thật: số comment điển hình, mất mấy phút để xử lý, đã từng bỏ sót comment chưa]` |
+| 1 | Lặp lại | Khi chuẩn bị nộp bài tập lớn/lab sát deadline, tôi muốn đối chiếu danh sách file yêu cầu và quy cách đặt tên theo rubric, để không bị trừ điểm vì thiếu file hoặc sai cấu trúc thư mục. | Bản thân, bạn cùng nhóm | Ước tính của bản thân: ~45 phút/lần, 2–3 lần/tuần vào các tuần có deadline |
+| 2 | Lặp lại | Khi bắt đầu buổi họp nhóm hằng tuần, tôi muốn nắm nhanh việc từng thành viên đã làm trong tuần, để phân công việc tuần mới mà không phải hỏi lần lượt từng người. | Nhóm trưởng, các thành viên trong nhóm | Ước tính của bản thân, chưa tự bấm giờ: mỗi buổi họp ~45 phút, riêng phần cập nhật tiến độ ~15 phút/lần |
+| 3 | Tốn thời gian | Khi ôn thi cuối kỳ với giáo trình và slide dài, tôi muốn gom được các khái niệm và công thức trọng tâm theo từng chủ đề của đề cương, để ôn đúng trọng tâm trước ngày thi. | Sinh viên ôn thi (bản thân) | Ước tính ~7 giờ cho một môn, trong 5 ngày trước kỳ thi |
+| 4 | Pain từ người khác | Khi tôi để quên đồ trên xe Xanh SM sau chuyến đi, tôi muốn nhanh chóng biết tài xế có giữ đồ không và cách nhận lại, để không mất tài sản. | Hành khách, tổng đài viên CSKH, tài xế Xanh SM | Chưa bấm giờ; mô phỏng 3 trường hợp (2 hành khách, 1 tài xế): 2 hành khách từng quên đồ, lần lượt nhận lại sau ~2 giờ và ~1 ngày; tài xế từng trả đồ cho khách trong ngày. Cần phỏng vấn thật để xác minh |
+| 5 | Cần đọc, tổng hợp nhiều thông tin | Khi nhận một đề tài nghiên cứu hoặc tiểu luận mới, tôi muốn so sánh nhanh các phương pháp trong những bài báo gần nhất về cùng một bài toán, để chọn hướng tiếp cận cho đề cương. | Sinh viên làm đề tài / đồ án | Lần gần nhất đọc 5 bài báo, mất ~6 giờ |
+| 6 | Cần đọc, tổng hợp nhiều thông tin | Khi cần làm thủ tục hành chính của trường (đăng ký môn, xin bảng điểm, bảo lưu), tôi muốn tra đúng quy trình, biểu mẫu và hạn chót hiện hành, để làm kịp mà không phải đi lại nhiều lần. | Sinh viên, cán bộ phòng đào tạo | Lần gần nhất mất ~40 phút tìm thông tin và phải làm lại một lần do dùng nhầm biểu mẫu |
+| 7 | Pain từ người khác | Khi thành viên mới cần thiết lập môi trường lập trình cho dự án chung, họ muốn biết chính xác các bước cài đặt và phiên bản chuẩn, để chạy được code ngay mà không phải nhắn hỏi liên tục. | Thành viên mới, người hướng dẫn trong nhóm | Trong một tuần có 9 tin nhắn hỏi lặp lại; người hướng dẫn dành tổng cộng ~75 phút hỗ trợ |
+| 8 | Pain từ người khác | Khi ban cán sự lớp cần chốt danh sách đăng ký hoạt động, họ muốn gộp và chuẩn hóa danh sách từ nhiều nguồn (form, tin nhắn, danh sách giấy), để gửi báo cáo đúng hạn. | Ban cán sự lớp, sinh viên đăng ký | Lần gần nhất 64 dòng dữ liệu; mất ~25 phút lọc trùng; phát hiện 4 lỗi cần sửa |
+| 9 | Tốn thời gian | Khi kết thúc tuần làm việc hoặc sprint học tập, tôi muốn tổng hợp các việc đã xong và vướng mắc còn tồn từ Trello/Notion thành một báo cáo ngắn, để cập nhật cho mentor mà không phải lục lại từng thẻ. | Thực tập sinh / sinh viên làm đồ án, mentor | Mất ~30 phút mỗi tuần; gửi trễ 2 trong 4 tuần gần nhất |
+| 10 | Lặp lại | Khi nhận feedback của giảng viên dưới dạng file Word/PDF có nhiều comment rải rác, tôi muốn phân loại comment theo mức ưu tiên và người phụ trách, để cả nhóm sửa bài đúng hạn mà không bỏ sót ý nào. | Cả nhóm làm bài tập lớn | Lần gần nhất khoảng 22 comment; mất ~35 phút để phân loại; từng bỏ sót 1 comment |
 
 **Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
 
@@ -58,20 +58,20 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | Actor | Cả nhóm làm bài tập lớn (người điều phối nhóm và các thành viên) |
 | Thời điểm / bối cảnh | Sau khi giảng viên trả feedback giữa kỳ hoặc cuối kỳ, trước hạn nộp bản sửa |
 | Quy trình hiện tại (3–7 bước) | Xem quy trình nháp bên dưới |
-| Bottleneck (bước nào, mất bao nhiêu phút) | `[Điền: bước nào, mất bao nhiêu phút. Dự kiến là bước 3–4: chép comment và phân công]` |
-| Impact (nếu không giải thì sao) | `[Điền: đã từng bỏ sót comment chưa, hậu quả là gì]` |
-| Success metric (baseline → target) | `[Điền: thời gian xử lý từ __ phút xuống __ phút; số comment bị sót từ __ xuống 0]` |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3–4: chép từng comment vào danh sách việc rồi chia người phụ trách (chưa bấm giờ, sẽ đo ở lần nhận feedback tới) |
+| Impact (nếu không giải thì sao) | Lần gần nhất ~22 comment, mất ~35 phút phân loại và từng bỏ sót 1 comment; nhưng chỉ xảy ra vài lần mỗi kỳ nên lợi ích có thể thấp |
+| Success metric (baseline → target) | Thời gian phân loại ~35 phút → ≤ 15 phút; số comment bị sót 1 → 0 (bấm giờ ở lần nhận feedback tới) |
 | Phương án không dùng AI | Dùng chế độ xem comment của Word/Google Docs và một bảng việc mẫu có cột người phụ trách, mức ưu tiên, trạng thái; thêm checklist rà lại trước khi nộp |
-| Giả thuyết về AI (nếu có) | `[Điền sau khi kiểm chứng]` |
+| Giả thuyết về AI (nếu có) | Có thể chưa cần AI: chế độ xem comment + bảng việc mẫu (Rule) có thể đủ; nếu dùng AI thì chỉ gợi ý mức ưu tiên, nhóm tự chia người phụ trách |
 | Cảm nhận nhanh | Chưa biết |
 
 Quy trình nháp hiện tại:
 
 ```text
 1. Nhận file feedback (Word/PDF) từ giảng viên
-→ 2. Đọc từng comment [__ phút]
-→ 3. Chép từng comment vào danh sách việc cần làm [__ phút]
-→ 4. Phân loại ưu tiên và chia người phụ trách (họp hoặc nhắn nhóm) [__ phút]
+→ 2. Đọc từng comment [chưa bấm giờ]
+→ 3. Chép từng comment vào danh sách việc cần làm [chưa bấm giờ]
+→ 4. Phân loại ưu tiên và chia người phụ trách (họp hoặc nhắn nhóm) [chưa bấm giờ]
 → 5. Từng người sửa phần của mình
 → 6. Rà lại xem còn comment nào bị sót không
 ```
@@ -84,20 +84,20 @@ Quy trình nháp hiện tại:
 | Actor | Sinh viên ôn thi |
 | Thời điểm / bối cảnh | 1–2 tuần trước kỳ thi cuối kỳ, khi có nhiều môn cùng lúc |
 | Quy trình hiện tại (3–7 bước) | Xem quy trình nháp bên dưới |
-| Bottleneck (bước nào, mất bao nhiêu phút) | `[Điền: bước nào, mất bao nhiêu phút. Dự kiến là bước 2–4: đọc và gom ghi chú]` |
-| Impact (nếu không giải thì sao) | `[Điền: ôn lệch trọng tâm hoặc thiếu thời gian ở kỳ nào, kết quả ra sao]` |
-| Success metric (baseline → target) | `[Điền: thời gian gom đề cương từ __ giờ xuống __ giờ/môn; tỷ lệ chủ đề của đề cương được phủ hết]` |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 2–4: đọc giáo trình/slide và gom ghi chú theo chủ đề (chưa bấm giờ) |
+| Impact (nếu không giải thì sao) | ~7 giờ cho một môn trong 5 ngày trước thi; ôn lệch trọng tâm hoặc thiếu thời gian khi nhiều môn thi dồn cùng lúc |
+| Success metric (baseline → target) | Thời gian gom đề cương ~7 giờ/môn → ≤ 3,5 giờ/môn; 100% chủ đề trong đề cương có ghi chú |
 | Phương án không dùng AI | Mẫu ghi chú theo từng chủ đề của đề cương, hỏi bạn hoặc giảng viên về trọng tâm, ôn theo đề các năm trước |
-| Giả thuyết về AI (nếu có) | `[Điền sau khi tự thử công cụ có sẵn như NotebookLM với tài liệu thật]` |
+| Giả thuyết về AI (nếu có) | Công cụ có sẵn (ví dụ NotebookLM) có thể đã đủ; cần tự thử với tài liệu thật trước khi nghĩ tới giải pháp riêng |
 | Cảm nhận nhanh | Chưa biết |
 
 Quy trình nháp hiện tại:
 
 ```text
 1. Xác định đề cương và các chủ đề cần ôn
-→ 2. Đọc giáo trình/slide theo từng chủ đề [__ phút]
-→ 3. Gạch ý chính, công thức [__ phút]
-→ 4. Gom ghi chú thành một tài liệu ôn [__ phút]
+→ 2. Đọc giáo trình/slide theo từng chủ đề [chưa bấm giờ]
+→ 3. Gạch ý chính, công thức [chưa bấm giờ]
+→ 4. Gom ghi chú thành một tài liệu ôn [chưa bấm giờ]
 → 5. Tự kiểm tra bằng đề cũ hoặc câu hỏi tự đặt
 → 6. Bổ sung phần còn thiếu
 ```
@@ -110,34 +110,37 @@ Quy trình nháp hiện tại:
 | Actor | Hành khách, tổng đài viên CSKH, tài xế Xanh SM |
 | Thời điểm / bối cảnh | Ngay sau chuyến đi, khi hành khách nhận ra mình để quên đồ và tài xế có thể đã nhận chuyến mới |
 | Quy trình hiện tại (3–7 bước) | Xem quy trình nháp bên dưới (lấy từ worksheet buổi sáng, cần kiểm chứng bằng người thật ở CP4) |
-| Bottleneck (bước nào, mất bao nhiêu phút) | `[Điền sau khi phỏng vấn: bước nào, mất bao nhiêu phút]` |
-| Impact (nếu không giải thì sao) | `[Điền theo kết quả phỏng vấn: có mất đồ không, mất bao lâu để nhận lại]` |
-| Success metric (baseline → target) | `[Điền: thời gian từ lúc báo đến lúc biết tài xế có giữ đồ, từ __ xuống __; tỷ lệ nhận lại được đồ]` |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Dự kiến bước 3: CSKH liên hệ tài xế để xác minh, vì tài xế có thể đã nhận chuyến mới (cần phỏng vấn để xác nhận và đo số phút) |
+| Impact (nếu không giải thì sao) | Hành khách có thể mất đồ hoặc chờ lâu (2 trường hợp mô phỏng: nhận lại sau ~2 giờ và ~1 ngày, cần xác minh bằng phỏng vấn thật); CSKH và tài xế tốn thời gian liên lạc qua lại |
+| Success metric (baseline → target) | Thời gian từ lúc báo đến lúc biết tài xế có giữ đồ, và tỉ lệ nhận lại được đồ; baseline lấy từ phỏng vấn hành khách/tài xế |
 | Phương án không dùng AI | Form báo quên đồ có trường bắt buộc (mã chuyến, mô tả đồ, vị trí ngồi), tin nhắn mẫu cho tài xế và hành khách, nhắc tự động theo thời hạn xác minh |
-| Giả thuyết về AI (nếu có) | `[Điền sau khi kiểm chứng; so sánh Rule và Workflow ở CP6]` |
+| Giả thuyết về AI (nếu có) | Rule (form bắt buộc + tin nhắn mẫu + nhắc tự động) có thể đủ; AI chỉ cần nếu phải đọc mô tả đồ viết tự do để ghép với báo cáo của tài xế |
 | Cảm nhận nhanh | Chưa biết (có thể là Rule) |
 
 Quy trình nháp hiện tại:
 
 ```text
 1. Hành khách báo quên đồ (hotline hoặc app)
-→ 2. CSKH ghi nhận mô tả đồ, vị trí ngồi, mã chuyến [__ phút]
-→ 3. CSKH liên hệ tài xế để xác minh có giữ đồ không [__ phút]
-→ 4. Thống nhất cách nhận lại (gửi về Hub hoặc giao tận nơi) [__ phút]
-→ 5. Báo lại cho hành khách hướng dẫn nhận đồ [__ phút]
+→ 2. CSKH ghi nhận mô tả đồ, vị trí ngồi, mã chuyến [chưa bấm giờ]
+→ 3. CSKH liên hệ tài xế để xác minh có giữ đồ không [chưa bấm giờ]
+→ 4. Thống nhất cách nhận lại (gửi về Hub hoặc giao tận nơi) [chưa bấm giờ]
+→ 5. Báo lại cho hành khách hướng dẫn nhận đồ [chưa bấm giờ]
 ```
 
 ### Card muốn pitch nhất
 
-- Card số:
-- Vì sao:
-- Câu hỏi muốn nhóm phản biện:
+- Card số: **#3 — Xanh SM xử lý đồ thất lạc**
+- Vì sao: dễ tìm người thật để phỏng vấn (hành khách, tài xế), quy trình rõ, so sánh được Rule và Workflow; card feedback giảng viên tuy rõ nhưng ít xảy ra.
+- Câu hỏi muốn nhóm phản biện: *Form và tin nhắn mẫu theo rule đã đủ chưa, hay bước xác minh với tài xế mới là chỗ thật sự nghẽn?*
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| | | |
+| Vấn đề họp nhóm (#2) đã có bot standup miễn phí cho nhóm nhỏ giải quyết khá tốt | Đồng ý | Không đưa vào top 3 |
+| Card feedback giảng viên ít xảy ra (vài lần mỗi kỳ) nên lợi ích có thể thấp | Đồng ý một phần | Giữ card nhưng ghi vào "Điều còn chưa chắc", không chọn để pitch |
+| Vấn đề Xanh SM dễ phỏng vấn người thật hơn các vấn đề nội bộ khác | Đồng ý | Đưa Xanh SM vào top 3 thay cho "rà soát bài nộp" và chọn làm card pitch |
+| Bản nháp scan có số liệu "dấu hiệu thật" do AI tự đặt | Đồng ý (đây là lỗi của AI) | Bỏ toàn bộ số do AI đặt, chỉ giữ số ước tính của chính tôi |
 
 ---
 
@@ -145,16 +148,16 @@ Quy trình nháp hiện tại:
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch 3 card: phân loại feedback giảng viên, gom đề cương ôn thi, Xanh SM xử lý đồ thất lạc. Ban đầu tôi định pitch mạnh card feedback, sau đó đẩy card Xanh SM lên vì dễ phỏng vấn người thật hơn | Các card được đưa vào cluster, nhưng không lọt shortlist vì còn thiếu số đo thật |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: giải pháp đó có tính thực dụng không hay chỉ trên lý thuyết, bạn thử nói xem | |
+| Nhận phản biện | Câu hỏi tôi nhận được: Giải pháp này giải quyết vấn đề của ai | Tôi đã sửa gì: Chỉ bổ sung thêm câu trả lời không phải sửa  |
+| Gom cluster / cây OST | Cùng nhóm xếp 3 card của tôi vào cụm "quy trình học tập" (feedback, ôn thi) và cụm "vận hành Vingroup" (Xanh SM) | Nhóm thấy các card học tập của tôi tần suất thấp hoặc đã có công cụ hỗ trợ khá tốt |
+| Chọn candidate problem | Đồng thuận chọn card tóm tắt ra viện của Cường thay vì giữ card của mình | Lý do: bài này tách rõ được phần làm bằng template (Rule), phần cần AI (Workflow) và trách nhiệm ký của bác sĩ |
+| Kiểm chứng / research | Tìm các giải pháp đã có (Epic, Nabla, Nuance DAX, các pilot ở bệnh viện) và mẫu biểu của Bộ Y tế; tự mở từng link, bỏ link chết và bỏ các công cụ ghi âm khám ngoại trú vì không đúng bước tóm tắt ra viện | Đưa ra câu hỏi cần kiểm chứng: hệ thống bệnh án điện tử của Vinmec đã tự điền dữ liệu vào mẫu 52/BV2 đến đâu |
+| Quy trình nhóm | Chuyển mô tả quy trình ra viện sang Mermaid, rà các điểm bàn giao giữa bác sĩ, trưởng khoa, thu ngân, điều dưỡng | Tách "chép dữ liệu" và "viết diễn biến + lời dặn" thành 2 bước riêng cho rõ bottleneck; thêm nhánh quay về khi AI lỗi |
+| Problem Statement | Dùng AI phản biện v0/v1 (chỉ hỏi lỗ hổng, không cho viết lại) | Góp ý thu hẹp actor về bác sĩ 1 khoa Nội, đo thời gian bằng log, thêm "0 sai lệch thuốc/liều", và không hứa bệnh nhân về sớm hơn |
+| Mức can thiệp AI | Phản biện bảng 4 mức, AI Canvas và 2 câu hỏi PAIR; bác bỏ mức Agent | Nhóm chọn Rule trước rồi mới lên Workflow, theo hướng hỗ trợ bác sĩ (augment) |
+| Quyết định | Đề xuất nâng mức rủi ro Feasibility/Viability của phần LLM (bảo mật dữ liệu bệnh nhân, API chậm, nguy cơ bịa số liệu) | Đồng thuận Not Yet cho LLM, làm ngay Template để đo baseline |
 
 ---
 
@@ -177,34 +180,36 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
-Khi nghe Cường trình bày các vấn đề ở Vinmec (tóm tắt hồ sơ bệnh án khi ra viện, gợi ý chuyên khoa khi đặt lịch, nhắc lịch tái khám) và bạn còn lại trình bày về hỗ trợ kỹ thuật xe ở VinFast, tôi nhận ra sự khác biệt rất rõ giữa một vấn đề gắn với quy trình vận hành thực tế so với các vấn đề cá nhân của sinh viên. Các card của tôi ban đầu phần lớn xoay quanh việc học tập (gom đề cương ôn thi, phân loại comment của giảng viên), tuy dễ đồng cảm nhưng tần suất xảy ra thấp hoặc đã có công cụ miễn phí xử lý khá tốt. Ngược lại, cách bạn chọn bài toán tóm tắt bệnh án xuất viện cho tôi thấy một problem tốt phải chỉ ra được dữ liệu đầu vào đang nằm ở đâu và bước nào chỉ cần sửa quy trình hay dùng template là đã giải quyết được phần lớn.
+Nghe Cường pitch các bài Vinmec và Đức Anh pitch bài VinFast, tôi thấy card học tập của mình dễ đồng cảm nhưng ít xảy ra hoặc đã có công cụ miễn phí; problem tốt phải chỉ ra được dữ liệu nằm ở đâu và bước nào chỉ cần template là xử lý được phần lớn.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
-Có. Lúc mới thảo luận về bài toán hồ sơ ra viện và cả ở bước scan cá nhân, phản xạ đầu tiên của tụi tôi là nghĩ ngay tới việc "dùng LLM đọc toàn bộ bệnh án nhiều ngày rồi tự viết bản tóm tắt hoàn chỉnh cho bác sĩ". Khi vẽ quy trình ra từng bước ở CP2 và CP5, nhóm mới nhận ra mình đang nhảy thẳng vào giải pháp AI. Thực tế trong bản tóm tắt hồ sơ bệnh án, phần chẩn đoán, kết quả xét nghiệm và đơn thuốc đã có sẵn dạng có cấu trúc trong hệ thống bệnh án điện tử, bác sĩ mất thời gian chủ yếu vì phải mở nhiều tab để đọc và chép tay lại. Nhóm đã xử lý bằng cách tách bạch hai phần: dùng Rule/Template tự động đổ các trường có cấu trúc trước, còn AI (nếu dùng) chỉ hỗ trợ soạn nháp phần diễn biến lâm sàng và lời dặn.
+Có, phản xạ đầu tiên của nhóm là cho LLM đọc hết bệnh án rồi tự viết cả bản tóm tắt; khi vẽ quy trình ra từng bước mới thấy chẩn đoán, xét nghiệm, thuốc đã có sẵn trong bệnh án điện tử, nên nhóm tách ra: template điền phần dữ liệu, AI chỉ soạn nháp diễn biến và lời dặn.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Tôi đã đổi ý ở hai điểm. Thứ nhất, ở vòng chọn card cá nhân, ban đầu tôi xếp vấn đề "Phân loại feedback của giảng viên (#10)" lên số 1 và định pitch mạnh card này, đồng thời định giữ cả ý "debug log". Sau khi đối chiếu phản biện về tần suất xảy ra (feedback lớn chỉ vài lần mỗi học kỳ) và việc công cụ sẵn có đã hỗ trợ tốt, tôi bỏ hẳn ý debug log và đẩy bài toán Xanh SM lên để dễ kiểm chứng với người thật. Thứ hai, khi thảo luận nhóm ở CP3, tôi chuyển sang đồng thuận chọn bài toán "Tóm tắt hồ sơ bệnh án khi ra viện" của Cường thay vì giữ bài của mình, vì bài toán đó tách được rất rõ ranh giới giữa No AI/Rule (template), Workflow và trách nhiệm ký duyệt của bác sĩ.
+Có, ban đầu tôi định pitch mạnh card phân loại feedback giảng viên, nhưng sau phản biện về tần suất thấp (vài lần mỗi kỳ) và công cụ có sẵn đã đủ tốt, tôi bỏ ý debug log, đẩy card Xanh SM lên và cuối cùng đồng thuận chọn bài tóm tắt ra viện của Cường.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
-Điều làm tôi bất ngờ nhất khi nhóm tìm hiểu tài liệu research là sự chênh lệch lớn giữa "cảm nhận tiết kiệm thời gian" và "thời gian thực đo trên log", cũng như nguyên nhân thật sự khiến bệnh nhân phải chờ xuất viện lâu. Trước khi tra cứu, tôi cứ nghĩ nếu bác sĩ làm xong bản tóm tắt bệnh án nhanh hơn thì bệnh nhân sẽ được về nhà sớm hơn. Nhưng các nghiên cứu tại bệnh viện cho thấy khâu làm bệnh nhân chờ lâu nhất lại nằm ở bước giám định bảo hiểm và thanh toán viện phí, chứ không phải bước bác sĩ viết tóm tắt. Ngoài ra, tỷ lệ LLM tự bịa thông tin y khoa hoặc bỏ sót dữ liệu lâm sàng trong các nghiên cứu rất cao, khiến tôi hiểu vì sao trong y tế không thể để AI tự điền phần thuốc và liều dùng.
+Có, tôi từng nghĩ bác sĩ viết tóm tắt nhanh hơn thì bệnh nhân sẽ về sớm hơn, nhưng research cho thấy người bệnh chờ chủ yếu ở khâu thanh toán bảo hiểm, còn ở Stanford bác sĩ cảm thấy tiết kiệm hơn 10 phút trong khi log chỉ đo được khoảng 3 phút.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Khó nhất là viết sao cho đủ cụ thể về Actor, Bottleneck và Success Metric mà không lén cài giải pháp ("dùng AI để...") vào trong câu mô tả vấn đề, đồng thời không hứa hẹn quá mức ở phần Impact. Nhóm phải sửa đi sửa lại phần Actor (thu hẹp từ "bác sĩ nói chung" về "bác sĩ điều trị nội trú tại 1 khoa Nội") và phần Metric (chuyển từ khảo sát cảm nhận sang đo bằng log hệ thống kèm điều kiện 0 sai lệch thuốc/liều) để đảm bảo bài toán đo lường được một cách khách quan.
+Khó nhất là viết đủ cụ thể Actor, Bottleneck, Metric mà không cài giải pháp vào và không hứa quá ở Impact; nhóm phải sửa nhiều lần để thu hẹp actor về bác sĩ 1 khoa Nội và đổi metric từ khảo sát cảm nhận sang đo bằng log kèm 0 sai lệch thuốc/liều.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
-Nếu làm lại từ đầu, tôi sẽ tự bấm giờ thực tế cho các vấn đề cá nhân của mình và đi phỏng vấn nhanh 3–5 người thật sớm hơn ngay từ trước hoặc đầu buổi lab, thay vì để nhiều ô số liệu ở trạng thái ước tính. Khi phản biện nhóm, tôi sẽ chất vấn mạnh hơn vào giả định khả thi tại chỗ: liệu hệ thống phần mềm bệnh viện (HIS/EMR) hiện tại của Vinmec đã có sẵn tính năng tự điền (auto-fill) các trường xét nghiệm và thuốc vào mẫu tóm tắt ra viện hay chưa, vì nếu hệ thống đã có sẵn template đó rồi thì khoảng trống thực sự còn lại cho bài toán của nhóm sẽ hẹp hơn rất nhiều.
+Nếu làm lại, tôi sẽ tự bấm giờ cho các vấn đề của mình và phỏng vấn 3–5 người thật ngay từ đầu buổi, đồng thời phản biện nhóm mạnh hơn ở câu hỏi hệ thống bệnh án của Vinmec đã có sẵn template tự điền chưa, vì nếu có rồi thì khoảng trống còn lại rất hẹp.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
-Bài toán của nhóm giải quyết tình trạng bác sĩ điều trị nội trú (phạm vi thử nghiệm ở 1 khoa Nội) vào cuối ca phải mất khoảng 20 phút cho mỗi ca xuất viện để mở lại bệnh án nhiều ngày và chép tay thông tin sang bản tóm tắt hồ sơ bệnh án. Trong quy trình 6 bước từ lúc khám cuối đến khi bàn giao cho người bệnh, điểm nghẽn chính nằm ở bước 2 và bước 3 khi bác sĩ phải tự đọc lại ghi chú, kết quả cận lâm sàng, đơn thuốc và viết diễn biến điều trị kèm lời dặn. Để đo lường thành công một cách khách quan, nhóm dùng log trên hệ thống bệnh án điện tử với mục tiêu giảm thời gian soạn thảo của bác sĩ từ khoảng 20 phút xuống còn tối đa 12 phút/bản, đồng thời đảm bảo 0 sai lệch về thuốc và liều dùng so với đơn ra viện. Ranh giới an toàn (boundary) bắt buộc là AI tuyệt đối không được tự ý chạm vào phần dữ liệu thuốc, liều lượng hay kết quả xét nghiệm, không được tự phát hành hồ sơ, và bác sĩ luôn phải đọc, chỉnh sửa rồi ký duyệt cuối cùng (HITL) với phương án quay về là tự viết trên template nếu AI lỗi. Về mức can thiệp, nhóm không chọn Agent vì quy trình ra viện đã cố định và đòi hỏi kiểm soát y khoa nghiêm ngặt, mà đi từ **Rule** (dùng template tự động đổ các trường chẩn đoán, xét nghiệm, thuốc có sẵn trong EMR) rồi mới kết hợp lên **Workflow** (AI chỉ soạn nháp phần văn bản diễn biến điều trị và lời dặn kèm bước code kiểm tra). Từ việc đánh giá 4 rủi ro, quyết định cuối cùng của nhóm là triển khai ngay phần **Template (No AI/Rule)** để vừa giảm tải chép tay vừa thu thập log đo baseline thực tế, và chọn **Not Yet** đối với phần LLM cho đến khi có dữ liệu bệnh án ẩn danh cùng kết quả kiểm chứng trực tiếp với bác sĩ.
+Bác sĩ điều trị khoa Nội mất khoảng 20 phút mỗi ca ra viện để đọc lại bệnh án và chép tay sang bản tóm tắt. Nghẽn nằm ở bước đọc lại và chép dữ liệu có sẵn cùng việc viết diễn biến, lời dặn. Metric đo bằng log: giảm xuống tối đa 12 phút/bản và 0 sai lệch thuốc/liều. Boundary là AI không chạm vào thuốc, liều, xét nghiệm, không tự phát hành, bác sĩ luôn đọc, sửa, ký. Nhóm chọn Rule (template) trước rồi mới lên Workflow, không dùng Agent vì quy trình đã cố định. Quyết định là làm ngay template để đo baseline, Not Yet cho LLM đến khi có dữ liệu ẩn danh và kiểm chứng với bác sĩ.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- Mẫu bản tóm tắt hồ sơ bệnh án 52/BV2, Phụ lục XXIX TT 32/2023/TT-BYT (nguồn thứ cấp): https://ttytgodau.tayninh.gov.vn/uploads/news/2quy-trinh-cung-cap-ban-tom-tat-hsba.pdf
+- Stanford Medicine (2026) — AI discharge summary pilot: https://med.stanford.edu/news/all-news/2026/06/ai-discharge-summary.html
+- Williams et al. (2024) — LLMs drafting ED discharge summaries: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11023681/
+- Google PAIR Guidebook: https://pair.withgoogle.com/guidebook/
