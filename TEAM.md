@@ -12,10 +12,9 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | Phan Trần Mạnh Cường | 2A202603810 | Nhóm trưởng, phụ trách vẽ quy trình & nghiên cứu đối sánh | Cuongngucuteee |
-| 2 | Cung Đức Anh | 2A202603814 | Phản biện chính, phụ trách kiểm chứng giả định & Problem Statement | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Phan Trần Mạnh Cường | 2A202603810 | Nhóm trưởng (lead), điều phối; vẽ quy trình; research nguồn; đề xuất mức can thiệp và quyết định | Cuongngucuteee |
+| 2 | Cung Đức Anh | 2A202603814 | Phản biện chính, phụ trách kiểm chứng giả định & Problem Statement |cungducanh2712 |
+| 3 | Hoàng Thế Phong | 2A202603832 | Research giải pháp đã có; chuyển quy trình sang Mermaid; phản biện Problem Statement và 4 rủi ro |Hphong2305|
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
@@ -25,17 +24,40 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ nhóm | Mạnh Cường | Đức Anh, Thế Phong | Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Đức Anh | Mạnh Cường | Assumption map, snapshot hoặc survey |
+| CP4 — Research | Mạnh Cường | Thế Phong | Bảng research có link |
+| CP5 — Quy trình trước/sau | Mạnh Cường | Thế Phong | Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 | Đức Anh | Mạnh Cường, Thế Phong | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Mạnh Cường | Đức Anh, Thế Phong | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định | Mạnh Cường | Đức Anh, Thế Phong | 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
+
+### PhanTranManhCuong-2A202603810
+
+**Phần việc phụ trách:**
+
+- Nhóm trưởng: fork repo, điều phối nhóm qua CP3–CP6.
+- Đưa candidate được chọn (Tóm tắt hồ sơ bệnh án khi ra viện); vẽ quy trình trước/sau; research nguồn; đề xuất mức can thiệp AI và quyết định.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch card tóm tắt ra viện (~8 phút); phản biện card VinFast của Đức Anh.
+- Điều phối gom 9 candidate thành 2 cluster, chốt outcome của cây OST.
+- Vẽ sơ đồ quy trình hiện tại và tương lai (`report/assets/cp2-workflow-card-1.png`).
+- Tìm nguồn `[N1]`–`[N7]` (Stanford, Williams et al., BV Nhi Đồng, mẫu biểu Bộ Y tế).
+- Đưa bản Problem Statement 6 trường làm khung cho v0; đề xuất Rule trước → Workflow, không dùng Agent; quyết định Not Yet cho LLM, làm ngay Template.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `group_report.md` mục 2.1 (card #1–#3), 2.2–2.3, 4, 5, 6, 8; `report/assets/cp2-workflow-card-1.png`; `report/individual/2A202603810_PhanTranManhCuong.md` mục 4.
+
+**Điều mình học được từ phần nhóm:**
+
+- Học hỏi thêm kinh nghiệm trao đổi giữa các thành viên.
 
 ### CungDucAnh-2A202603814
 
@@ -65,20 +87,23 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 - Hiểu sâu sắc sự khác biệt giữa Solution trá hình và Opportunity thực sự trong cây OST (Opportunity Solution Tree).
 - Nhận thức rõ ràng nguyên tắc *Problem first, AI second*: ưu tiên giải pháp đơn giản nhất (Rule template tự điền) trước để đo lường baseline, kiên quyết chọn Not Yet cho AI khi chưa đủ điều kiện an toàn.
 
-### HoVaTen-MSSV (Template mẫu cho thành viên tiếp theo)
+### HoangThePhong-2A202603832
 
 **Phần việc phụ trách:**
 
--
+- Research giải pháp đã có (CP4); chuyển quy trình sang Mermaid và rà điểm bàn giao (CP5); phản biện Problem Statement, mức can thiệp và 4 rủi ro (CP5–CP6).
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Pitch 3 card (feedback giảng viên, ôn thi, Xanh SM đồ thất lạc).
+- Tìm các giải pháp đã có (Epic, Nabla, Nuance DAX, pilot ở bệnh viện) và mẫu 52/BV2; tự mở link, bỏ link chết và loại công cụ ghi âm khám ngoại trú khỏi bảng research.
+- Đề xuất tách bước "chép dữ liệu" và "viết diễn biến + lời dặn" trong quy trình; thêm nhánh quay về khi AI lỗi.
+- Dùng AI phản biện Problem Statement: thu hẹp actor về bác sĩ 1 khoa Nội, đo bằng log, thêm 0 sai lệch thuốc/liều; bác bỏ mức Agent; đề xuất nâng rủi ro Feasibility/Viability.
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `group_report.md` mục 2.1 (card #7–#9), 3.3 (ghi chú loại ambient scribe), 4, 5 (phản biện v0), 8.1; `report/individual/2A202603832_HoangThePhong.md` mục 4–5.
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Problem tốt phải chỉ ra dữ liệu nằm ở đâu và bước nào template là đủ, trước khi nghĩ tới AI.
